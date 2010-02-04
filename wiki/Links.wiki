@@ -14,5 +14,8 @@ Project plan: http://docs.google.com/Doc?docid=0AVd2AYWnsGhXZGYyMjRzeHZfMjRjYmN4
 
 Gantt Chart: http://spreadsheets.google.com/ccc?key=0As4KRNm3cLT7dHFaakotRkplMnVWb01jcTlVQ21tb3c&hl=en
 
+Implementation Environment Comparison:
+http://spreadsheets.google.com/ccc?key=0ApoCbS04oKdddDB2M0ZScWlMNXlhemRjaHQ2T0ZfZUE&hl=en
+
 = Coding =
 wii balance board: http://blogs.msdn.com/coding4fun/archive/2007/03/14/1879033.aspx
