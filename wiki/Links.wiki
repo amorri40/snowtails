@@ -20,9 +20,20 @@ Gantt Chart: http://spreadsheets.google.com/ccc?key=0As4KRNm3cLT7dHFaakotRkplMnV
 Implementation Environment Comparison:
 http://spreadsheets.google.com/ccc?key=0ApoCbS04oKdddDB2M0ZScWlMNXlhemRjaHQ2T0ZfZUE&hl=en
 
-= Articles =
+== Articles ==
 Article on Unity3d vs others:
 http://www.jadbox.com/2009/04/haxe-vs-unity3d-vs-xna-vs-others/
+
+== Example diagrams ==
+[http://2.bp.blogspot.com/_1q9SmbuPfKQ/SPxocyh0dEI/AAAAAAAAAEI/w49Bct6CI4Q/s1600-h/UML_Attempt1.png Diagram based on unity]
+
+
+= Possible resources =
+basic sled: http://www.sharecg.com/v/39281/3D-Model/Dog-Sled
+
+snow texture: http://www.sharecg.com/v/2590/Texture/Snow
+
+
 
 = Coding =
 
@@ -31,6 +42,8 @@ overall unity(good): http://www.technicat.com/games/unity.html
 
 scripting in unity: http://unity3d.com/support/documentation/ScriptReference/index.html
 
+unity game development essentials ebook
+
 == Reference ==
 [http://www.unifycommunity.com/wiki/index.php?title=Main_Page Unity wiki]
 
@@ -38,34 +51,30 @@ scripting in unity: http://unity3d.com/support/documentation/ScriptReference/ind
 
 [http://unity3d.com/support/documentation/ScriptReference/20_class_hierarchy.html Classes]
 
-== Advanced ==
-wii balance board: http://blogs.msdn.com/coding4fun/archive/2007/03/14/1879033.aspx
-
-unity game development essentials ebook
-
-= Possible resources =
-basic sled: http://www.sharecg.com/v/39281/3D-Model/Dog-Sled
-
-snow texture: http://www.sharecg.com/v/2590/Texture/Snow
-
-= Examples =
+== Unity Examples ==
 [http://www.gotow.net/andrew/blog/?page_id=78 car example used for prototype]
 
-
-= AI =
+== Specific component ==
+=== AI ===
 http://mrjoy.com/posts/37-Pathfinding-in-Unity
 
 http://learnunity3d.com/?p=109
 
 
-= Highscore =
+=== Highscore ===
 http://www.unifycommunity.com/wiki/index.php?title=Server_Side_Highscores#Step_3:_The_Unity_HSController_Script
 
 
-= Example diagrams =
-[http://2.bp.blogspot.com/_1q9SmbuPfKQ/SPxocyh0dEI/AAAAAAAAAEI/w49Bct6CI4Q/s1600-h/UML_Attempt1.png Diagram based on unity]
+=== Wii balance board ===
+[http://blogs.msdn.com/coding4fun/archive/2007/03/14/1879033.aspx wii balance board api]
 
-= Unit Testing =
+
+=== Possible last minute features ===
+[http://blog.almostlogical.com/2009/12/11/render-to-texture-unity3d/ see behind mirror?]
+
+
+
+== Unit Testing ==
 UUnit http://www.unifycommunity.com/wiki/index.php?title=UUnit
 
 UnityTest http://www.mrjoy.com/posts/33-Unit-testing-in-Unity
