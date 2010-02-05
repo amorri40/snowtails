@@ -47,6 +47,11 @@ http://mrjoy.com/posts/37-Pathfinding-in-Unity
 
 http://learnunity3d.com/?p=109
 
+
+= Highscore =
+http://www.unifycommunity.com/wiki/index.php?title=Server_Side_Highscores#Step_3:_The_Unity_HSController_Script
+
+
 = Example diagrams =
 [http://2.bp.blogspot.com/_1q9SmbuPfKQ/SPxocyh0dEI/AAAAAAAAAEI/w49Bct6CI4Q/s1600-h/UML_Attempt1.png Diagram based on unity]
 
