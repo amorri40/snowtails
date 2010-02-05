@@ -24,7 +24,7 @@ http://spreadsheets.google.com/ccc?key=0ApoCbS04oKdddDB2M0ZScWlMNXlhemRjaHQ2T0Zf
 Article on Unity3d vs others:
 http://www.jadbox.com/2009/04/haxe-vs-unity3d-vs-xna-vs-others/
 
-= Coding =
+== Coding ==
 overall unity(good): http://www.technicat.com/games/unity.html
 
 scripting in unity: http://unity3d.com/support/documentation/ScriptReference/index.html
@@ -37,6 +37,10 @@ unity game development essentials ebook
 basic sled: http://www.sharecg.com/v/39281/3D-Model/Dog-Sled
 
 snow texture: http://www.sharecg.com/v/2590/Texture/Snow
+
+= Examples =
+[http://www.gotow.net/andrew/blog/?page_id=78 car example used for prototype]
+
 
 = AI =
 http://mrjoy.com/posts/37-Pathfinding-in-Unity
