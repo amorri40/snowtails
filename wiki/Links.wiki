@@ -58,6 +58,10 @@ unity game development essentials ebook
 [http://www.gotow.net/andrew/blog/?page_id=78 car example used for prototype]
 
 == Specific component ==
+
+=== Terrain ===
+http://unity3d.com/support/resources/unity-extensions/terrain-toolkit
+
 === AI ===
 http://mrjoy.com/posts/37-Pathfinding-in-Unity
 
