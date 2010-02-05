@@ -1,9 +1,10 @@
 #summary One-sentence summary of this page.
 
-= Useful links =
+= Videos to watch =
 
 http://www.agilegamedevelopment.com/2010/01/introduction-to-agile-game-development.html
 
+= Documents =
 Spec:
 https://docs.google.com/Doc?docid=0Ac4KRNm3cLT7ZGY5eHA5NzlfMGY2cWM5aGR0&hl=en
 
@@ -17,6 +18,7 @@ Gantt Chart: http://spreadsheets.google.com/ccc?key=0As4KRNm3cLT7dHFaakotRkplMnV
 Implementation Environment Comparison:
 http://spreadsheets.google.com/ccc?key=0ApoCbS04oKdddDB2M0ZScWlMNXlhemRjaHQ2T0ZfZUE&hl=en
 
+= Articles =
 Article on Unity3d vs others:
 http://www.jadbox.com/2009/04/haxe-vs-unity3d-vs-xna-vs-others/
 
