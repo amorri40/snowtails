@@ -35,3 +35,14 @@ unity game development essentials ebook
 basic sled: http://www.sharecg.com/v/39281/3D-Model/Dog-Sled
 
 snow texture: http://www.sharecg.com/v/2590/Texture/Snow
+
+= AI =
+http://mrjoy.com/posts/37-Pathfinding-in-Unity
+
+= Example diagrams =
+based on unity: http://2.bp.blogspot.com/_1q9SmbuPfKQ/SPxocyh0dEI/AAAAAAAAAEI/w49Bct6CI4Q/s1600-h/UML_Attempt1.png
+
+= Unit Testing =
+UUnit http://www.unifycommunity.com/wiki/index.php?title=UUnit
+
+UnityTest http://www.mrjoy.com/posts/33-Unit-testing-in-Unity
