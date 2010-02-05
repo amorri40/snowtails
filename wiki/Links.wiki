@@ -17,10 +17,13 @@ Gantt Chart: http://spreadsheets.google.com/ccc?key=0As4KRNm3cLT7dHFaakotRkplMnV
 Implementation Environment Comparison:
 http://spreadsheets.google.com/ccc?key=0ApoCbS04oKdddDB2M0ZScWlMNXlhemRjaHQ2T0ZfZUE&hl=en
 
-Article on Unity£d vs others:
+Article on Unity3d vs others:
 http://www.jadbox.com/2009/04/haxe-vs-unity3d-vs-xna-vs-others/
 
 = Coding =
 wii balance board: http://blogs.msdn.com/coding4fun/archive/2007/03/14/1879033.aspx
 
 unity game development essentials ebook
+
+= Possible resources =
+basic sled: http://www.sharecg.com/v/39281/3D-Model/Dog-Sled
