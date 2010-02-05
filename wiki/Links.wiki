@@ -40,7 +40,7 @@ snow texture: http://www.sharecg.com/v/2590/Texture/Snow
 http://mrjoy.com/posts/37-Pathfinding-in-Unity
 
 = Example diagrams =
-based on unity: http://2.bp.blogspot.com/_1q9SmbuPfKQ/SPxocyh0dEI/AAAAAAAAAEI/w49Bct6CI4Q/s1600-h/UML_Attempt1.png
+[http://2.bp.blogspot.com/_1q9SmbuPfKQ/SPxocyh0dEI/AAAAAAAAAEI/w49Bct6CI4Q/s1600-h/UML_Attempt1.png Diagram based on unity]
 
 = Unit Testing =
 UUnit http://www.unifycommunity.com/wiki/index.php?title=UUnit
