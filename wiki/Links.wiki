@@ -41,6 +41,8 @@ snow texture: http://www.sharecg.com/v/2590/Texture/Snow
 = AI =
 http://mrjoy.com/posts/37-Pathfinding-in-Unity
 
+http://learnunity3d.com/?p=109
+
 = Example diagrams =
 [http://2.bp.blogspot.com/_1q9SmbuPfKQ/SPxocyh0dEI/AAAAAAAAAEI/w49Bct6CI4Q/s1600-h/UML_Attempt1.png Diagram based on unity]
 
