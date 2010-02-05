@@ -29,14 +29,14 @@ http://www.jadbox.com/2009/04/haxe-vs-unity3d-vs-xna-vs-others/
 == Example diagrams ==
 [http://2.bp.blogspot.com/_1q9SmbuPfKQ/SPxocyh0dEI/AAAAAAAAAEI/w49Bct6CI4Q/s1600-h/UML_Attempt1.png Diagram based on unity]
 
----- 
+----
 
 = Possible resources =
 basic sled: http://www.sharecg.com/v/39281/3D-Model/Dog-Sled
 
 snow texture: http://www.sharecg.com/v/2590/Texture/Snow
 
----- 
+----
 
 = Coding =
 
