@@ -67,6 +67,10 @@ http://learnunity3d.com/?p=109
 === Highscore ===
 http://www.unifycommunity.com/wiki/index.php?title=Server_Side_Highscores#Step_3:_The_Unity_HSController_Script
 
+=== Loading screen ===
+http://unity3d.com/support/documentation/ScriptReference/Application.LoadLevelAsync.html
+[http://forum.unity3d.com/viewtopic.php?t=42208&highlight=loading+screen possible problem]
+[http://forum.unity3d.com/viewtopic.php?t=39860&highlight=loading+screen different way]
 
 === Wii balance board ===
 [http://blogs.msdn.com/coding4fun/archive/2007/03/14/1879033.aspx wii balance board api]
