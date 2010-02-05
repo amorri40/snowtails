@@ -24,11 +24,21 @@ http://spreadsheets.google.com/ccc?key=0ApoCbS04oKdddDB2M0ZScWlMNXlhemRjaHQ2T0Zf
 Article on Unity3d vs others:
 http://www.jadbox.com/2009/04/haxe-vs-unity3d-vs-xna-vs-others/
 
-== Coding ==
+= Coding =
+
+== Beginning ==
 overall unity(good): http://www.technicat.com/games/unity.html
 
 scripting in unity: http://unity3d.com/support/documentation/ScriptReference/index.html
 
+== Reference ==
+[http://www.unifycommunity.com/wiki/index.php?title=Main_Page Unity wiki]
+
+[http://unity3d.com/support/documentation/Components/index.html Reference Manual]
+
+[http://unity3d.com/support/documentation/ScriptReference/20_class_hierarchy.html Classes]
+
+== Advanced ==
 wii balance board: http://blogs.msdn.com/coding4fun/archive/2007/03/14/1879033.aspx
 
 unity game development essentials ebook
