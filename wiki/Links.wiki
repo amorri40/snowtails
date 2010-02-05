@@ -23,6 +23,8 @@ Article on Unity3d vs others:
 http://www.jadbox.com/2009/04/haxe-vs-unity3d-vs-xna-vs-others/
 
 = Coding =
+scripting in unity: http://unity3d.com/support/documentation/ScriptReference/index.html
+
 wii balance board: http://blogs.msdn.com/coding4fun/archive/2007/03/14/1879033.aspx
 
 unity game development essentials ebook
