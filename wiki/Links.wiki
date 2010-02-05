@@ -2,7 +2,9 @@
 
 = Videos to watch =
 
-http://www.agilegamedevelopment.com/2010/01/introduction-to-agile-game-development.html
+[http://www.agilegamedevelopment.com/2010/01/introduction-to-agile-game-development.html Scrum video]
+
+[http://learnmesilly.com/index.php?currentPage=unity_lesson1&currentPart=unity1_1 Good unity videos]
 
 = Documents =
 Spec:
