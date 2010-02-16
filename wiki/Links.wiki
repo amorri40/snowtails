@@ -22,6 +22,9 @@ Gantt Chart: http://spreadsheets.google.com/ccc?key=0As4KRNm3cLT7dHFaakotRkplMnV
 Implementation Environment Comparison:
 http://spreadsheets.google.com/ccc?key=0ApoCbS04oKdddDB2M0ZScWlMNXlhemRjaHQ2T0ZfZUE&hl=en
 
+Risk assessment
+http://docs.google.com/Doc?docid=0ATz6lbrAO0uMZGRxdmt3N3NfMWN4Z25yNGdx&hl=en
+
 == Articles ==
 Article on Unity3d vs others:
 http://www.jadbox.com/2009/04/haxe-vs-unity3d-vs-xna-vs-others/
