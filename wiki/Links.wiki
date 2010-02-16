@@ -24,6 +24,8 @@ http://spreadsheets.google.com/ccc?key=0ApoCbS04oKdddDB2M0ZScWlMNXlhemRjaHQ2T0Zf
 
 Risk assessment
 http://docs.google.com/Doc?docid=0ATz6lbrAO0uMZGRxdmt3N3NfMWN4Z25yNGdx&hl=en
+paragraphs
+http://docs.google.com/Doc?docid=0ATz6lbrAO0uMZGRxdmt3N3NfMmRyNXp3cmpj&hl=en
 
 == Articles ==
 Article on Unity3d vs others:
