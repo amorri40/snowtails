@@ -1,0 +1,7 @@
+C:\Users\Ali.Ali-Laptop\Desktop\Uni\Intproj3\car2\CarTutorialProject\Temp\bin\Debug\Irrelvant.dll
+C:\Users\Ali.Ali-Laptop\Desktop\Uni\Intproj3\car2\CarTutorialProject\Temp\bin\Debug\Irrelvant.pdb
+C:\Users\Ali.Ali-Laptop\Desktop\Uni\Intproj3\car2\CarTutorialProject\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Ali.Ali-Laptop\Desktop\Uni\Intproj3\car2\CarTutorialProject\Temp\bin\Debug\UnityEngine-Debug.dll
+C:\Users\Ali.Ali-Laptop\Desktop\Uni\Intproj3\car2\CarTutorialProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali.Ali-Laptop\Desktop\Uni\Intproj3\car2\CarTutorialProject\obj\Debug\Irrelvant.dll
+C:\Users\Ali.Ali-Laptop\Desktop\Uni\Intproj3\car2\CarTutorialProject\obj\Debug\Irrelvant.pdb

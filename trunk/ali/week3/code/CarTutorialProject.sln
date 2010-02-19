@@ -1,0 +1,20 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{DAB29744-0480-0CD2-C59E-AF1961D78815}") = "CarTutorialProject", "CarTutorialProject.csproj", "{7976E27D-CF40-5E8C-DB01-B865AF1D2693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7976E27D-CF40-5E8C-DB01-B865AF1D2693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7976E27D-CF40-5E8C-DB01-B865AF1D2693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7976E27D-CF40-5E8C-DB01-B865AF1D2693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7976E27D-CF40-5E8C-DB01-B865AF1D2693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
