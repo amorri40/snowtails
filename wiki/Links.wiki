@@ -10,22 +10,22 @@
 
 = Documents =
 Spec:
-https://docs.google.com/Doc?docid=0Ac4KRNm3cLT7ZGY5eHA5NzlfMGY2cWM5aGR0&hl=en
+https://docs.google.com/Doc?docid=1Ac4KRNm3cLT7ZGY5eHA5NzlfMGY2cWM5aGR0&hl=en
 
 
-https://docs.google.com/Doc?docid=0Ac4KRNm3cLT7ZGY5eHA5NzlfMWduM3N4d2hy&hl=en
+https://docs.google.com/Doc?docid=1Ac4KRNm3cLT7ZGY5eHA5NzlfMWduM3N4d2hy&hl=en
 
-Project plan: http://docs.google.com/Doc?docid=0AVd2AYWnsGhXZGYyMjRzeHZfMjRjYmN4a3Nmcw&hl=en
+Project plan: http://docs.google.com/Doc?docid=1AVd2AYWnsGhXZGYyMjRzeHZfMjRjYmN4a3Nmcw&hl=en
 
-Gantt Chart: http://spreadsheets.google.com/ccc?key=0As4KRNm3cLT7dHFaakotRkplMnVWb01jcTlVQ21tb3c&hl=en
+Gantt Chart: http://spreadsheets.google.com/ccc?key=1As4KRNm3cLT7dHFaakotRkplMnVWb01jcTlVQ21tb3c&hl=en
 
 Implementation Environment Comparison:
-http://spreadsheets.google.com/ccc?key=0ApoCbS04oKdddDB2M0ZScWlMNXlhemRjaHQ2T0ZfZUE&hl=en
+http://spreadsheets.google.com/ccc?key=1ApoCbS04oKdddDB2M0ZScWlMNXlhemRjaHQ2T0ZfZUE&hl=en
 
 Risk assessment
-http://docs.google.com/Doc?docid=0ATz6lbrAO0uMZGRxdmt3N3NfMWN4Z25yNGdx&hl=en
+http://docs.google.com/Doc?docid=1ATz6lbrAO0uMZGRxdmt3N3NfMWN4Z25yNGdx&hl=en
 paragraphs
-http://docs.google.com/Doc?docid=0ATz6lbrAO0uMZGRxdmt3N3NfMmRyNXp3cmpj&hl=en
+http://docs.google.com/Doc?docid=1ATz6lbrAO0uMZGRxdmt3N3NfMmRyNXp3cmpj&hl=en
 
 == Articles ==
 Article on Unity3d vs others:
