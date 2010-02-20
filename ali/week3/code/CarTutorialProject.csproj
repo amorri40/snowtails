@@ -45,7 +45,10 @@
   <ItemGroup>
     <Compile Include="Assets\LapCollider.cs" />
     <Compile Include="Assets\LapManager.cs" />
+    <Compile Include="Assets\LapTextManager.cs" />
     <Compile Include="Assets\NewBehaviourScript.cs" />
+    <Compile Include="Assets\PausedGUI.cs" />
+    <Compile Include="Assets\RaceEndGUI.cs" />
     <Compile Include="Assets\TimeLabelUpdate.cs" />
     <Compile Include="Assets\TimeLabelUpdate2.cs" />
     <Compile Include="Assets\Standard Assets\Camera Scripts\MouseLook.cs" />

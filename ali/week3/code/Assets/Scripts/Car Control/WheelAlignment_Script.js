@@ -35,7 +35,7 @@ function Update () {
 	// if the slip of the tire is greater than 2.0, and the slip prefab exists, create an instance of it on the ground at
 	// a zero rotation.
 	if ( Mathf.Abs( CorrespondingGroundHit.sidewaysSlip ) > 2.0 ) {
-		if ( SlipPrefab ) {
+		if ( SlipPrefab && Time.timeScale > 0 ) { //added && part
 			Instantiate( SlipPrefab, CorrespondingGroundHit.point, Quaternion.identity );
 		}
 	}
