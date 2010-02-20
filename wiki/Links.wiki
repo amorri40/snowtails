@@ -87,7 +87,7 @@ http://unity3d.com/support/documentation/ScriptReference/Application.LoadLevelAs
 
 === Wii balance board ===
 [http://blogs.msdn.com/coding4fun/archive/2007/03/14/1879033.aspx wii balance board api]
-
+http://www.unifycommunity.com/wiki/index.php?title=UniWii
 
 === Possible last minute features ===
 [http://blog.almostlogical.com/2009/12/11/render-to-texture-unity3d/ see behind mirror?]
