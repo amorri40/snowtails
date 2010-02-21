@@ -20,24 +20,24 @@ public class LapCollider : MonoBehaviour
         }
     void OnTriggerExit(Collider other)
         {
-        if (other.name == "PlayerCollider" && CheckPointCollider.wentThroughCheckpoint)
+        if (other.name == "PlayerCollider" && CheckPointCollider.getCheckpoint())
             {
-            if (LapManager.lapCount > 2)
+            if (LapManager.getLapCount() > 2)
                 {
                 //finish
                 GameEndGUI.active = true;
                 Time.timeScale = 0;
-                TimeLabelUpdate.timer.Stop();
+                TimeLabelUpdate.getTimer().Stop();
                 }
             else
                 {
-                LapManager.lapCount++;
-                CheckPointCollider.wentThroughCheckpoint = false;
-                
-                if (LapManager.lapCount > 2)
+                LapManager.addLap();
+                CheckPointCollider.setCheckpoint(false);
+
+                if (LapManager.getLapCount() > 2)
                     LapText.guiText.text = "Final Lap";
                 else
-                    LapText.guiText.text = "Lap " + LapManager.lapCount;
+                    LapText.guiText.text = "Lap " + LapManager.getLapCount();
 
                 LapText.active=true;
                 LapTextManager.lapTextTimer.Start();

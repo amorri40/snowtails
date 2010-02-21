@@ -4,7 +4,17 @@ using System.Collections;
 public class LapManager : MonoBehaviour
     {
 
-    public static int lapCount = 1;
+    private static int lapCount = 1;
+
+    public static int getLapCount()
+        {
+        return lapCount;
+        }
+
+    public static void addLap()
+        {
+        lapCount++;
+        }
 
     // Use this for initialization
     void Start()
@@ -16,9 +26,5 @@ public class LapManager : MonoBehaviour
     void Update()
         {
         guiText.text = "Lap: " + lapCount + "/3";
-        }
-    void OnTriggerExit(Collider other)
-        {
-        lapCount++;
         }
     }

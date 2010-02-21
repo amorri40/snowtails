@@ -4,9 +4,13 @@ using System.Diagnostics;
 
 public class TimeLabelUpdate : MonoBehaviour {
 
-	public static int timet=1;
-    public static Stopwatch timer = new Stopwatch();
-	
+	private static Stopwatch timer = new Stopwatch();
+
+    public static Stopwatch getTimer()
+        {
+        return timer;
+        }
+
 	// Use this for initialization
 	void Start () {
     timer.Start();

@@ -4,23 +4,20 @@ using System.Collections;
 public class CheckPointCollider : MonoBehaviour
     {
 
-    public static bool wentThroughCheckpoint = false;
+    private static bool wentThroughCheckpoint = false;
 
-    // Use this for initialization
-    void Start()
+    public static void setCheckpoint(bool checkpoint)
         {
-
+        wentThroughCheckpoint = checkpoint;
+        }
+    public static bool getCheckpoint()
+        {
+        return wentThroughCheckpoint;
         }
 
-    // Update is called once per frame
-    void Update()
-        {
-
-        }
     void OnTriggerExit(Collider other)
         {
         if (other.name == "PlayerCollider")
-            wentThroughCheckpoint = true;
-        
+            setCheckpoint(true);
         }
     }
