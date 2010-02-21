@@ -50,7 +50,6 @@
     <Compile Include="Assets\PausedGUI.cs" />
     <Compile Include="Assets\RaceEndGUI.cs" />
     <Compile Include="Assets\TimeLabelUpdate.cs" />
-    <Compile Include="Assets\TimeLabelUpdate2.cs" />
     <Compile Include="Assets\Standard Assets\Camera Scripts\MouseLook.cs" />
     <Compile Include="Assets\CheckPointCollider.cs" />
     <Compile Include="Assets\SledController.cs" />
@@ -62,6 +61,7 @@
     <None Include="Assets\Standard Assets\Camera Scripts\MouseOrbit.js" />
     <None Include="Assets\Standard Assets\Camera Scripts\SmoothFollow.js" />
     <None Include="Assets\Standard Assets\Camera Scripts\SmoothLookAt.js" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

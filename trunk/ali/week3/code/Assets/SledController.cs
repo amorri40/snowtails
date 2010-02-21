@@ -43,14 +43,14 @@ public class SledController : MonoBehaviour
             if (Time.timeScale == 1)
                 {
                 Time.timeScale = 0;
-                TimeLabelUpdate.timer.Stop();
+                TimeLabelUpdate.getTimer().Stop();
                 PauseMenu.active = true;
                 }
             else
                 {
                 PauseMenu.active = false;
                 Time.timeScale = 1;
-                TimeLabelUpdate.timer.Start();
+                TimeLabelUpdate.getTimer().Start();
                 }
             }
         }
