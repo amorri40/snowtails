@@ -54,12 +54,41 @@ function Update () {
 
 	// finally, apply the values to the wheels.	The torque applied is divided by the current gear, and
 	// multiplied by the user input variable.
-	FrontLeftWheel.motorTorque = EngineTorque / GearRatio[CurrentGear] * Input.GetAxis("Vertical");
+	/*FrontLeftWheel.motorTorque = EngineTorque / GearRatio[CurrentGear] * Input.GetAxis("Vertical");
 	FrontRightWheel.motorTorque = EngineTorque / GearRatio[CurrentGear] * Input.GetAxis("Vertical");
 		
 	// the steer angle is an arbitrary value multiplied by the user input.
 	FrontLeftWheel.steerAngle = 10 * Input.GetAxis("Horizontal");
-	FrontRightWheel.steerAngle = 10 * Input.GetAxis("Horizontal");
+	FrontRightWheel.steerAngle = 10 * Input.GetAxis("Horizontal");*/
+	
+	if (Input.GetKey(KeyCode.JoystickButton3) )
+	{
+	FrontLeftWheel.motorTorque=600;
+	FrontLeftWheel.motorTorque = EngineTorque / GearRatio[CurrentGear] * 1;
+	FrontRightWheel.motorTorque = EngineTorque / GearRatio[CurrentGear] * 1;
+		
+	}
+	
+	if (Input.GetKey(KeyCode.JoystickButton2) && (Input.GetKey(KeyCode.JoystickButton3)) ){
+		FrontLeftWheel.motorTorque = EngineTorque ;
+		FrontRightWheel.motorTorque = EngineTorque;
+	}
+	else if (Input.GetKey(KeyCode.JoystickButton2)) {
+		FrontLeftWheel.motorTorque = 0 ;
+		FrontRightWheel.motorTorque = EngineTorque;
+	}
+	else if (Input.GetKey(KeyCode.JoystickButton1)) {
+		FrontLeftWheel.motorTorque = EngineTorque ;
+		FrontRightWheel.motorTorque = 0;
+	}
+	else if (Input.GetKey(KeyCode.JoystickButton11)) {
+		FrontLeftWheel.brakeTorque = 20 ;
+		FrontRightWheel.brakeTorque = 20;
+	}
+	else if (Input.GetKey(KeyCode.None) ){
+		//FrontLeftWheel.brakeTorque = 1 ;
+		//FrontRightWheel.brakeTorque = 1;
+	}   
 	
 }
 
