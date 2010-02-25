@@ -13,6 +13,8 @@ public class SledController : MonoBehaviour
     // Use this for initialization
     void Start()
         {
+        //make sure the first person camera isn't showing
+        FirstPersonCamera.active = false;
         }
 
     // Update is called once per frame

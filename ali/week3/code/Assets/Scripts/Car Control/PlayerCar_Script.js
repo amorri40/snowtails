@@ -77,13 +77,13 @@ function Update () {
 		FrontLeftWheel.motorTorque = 0 ;
 		FrontRightWheel.motorTorque = EngineTorque;
 	}
-	else if (Input.GetKey(KeyCode.JoystickButton1)) {
-		FrontLeftWheel.motorTorque = EngineTorque ;
-		FrontRightWheel.motorTorque = 0;
+	else if (Input.GetKey(KeyCode.JoystickButton1)) { //
+		//FrontLeftWheel.motorTorque = EngineTorque ;
+		//FrontRightWheel.motorTorque = 0;
 	}
-	else if (Input.GetKey(KeyCode.JoystickButton11)) {
-		FrontLeftWheel.brakeTorque = 20 ;
-		FrontRightWheel.brakeTorque = 20;
+	else if (Input.GetKey(KeyCode.JoystickButton11)) { //back
+		//FrontLeftWheel.brakeTorque = 20 ;
+		//FrontRightWheel.brakeTorque = 20;
 	}
 	else if (Input.GetKey(KeyCode.None) ){
 		//FrontLeftWheel.brakeTorque = 1 ;

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>9.0.21022</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{4D78D7BB-5643-EB39-E123-DFA4DF2E85AE}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace>Irrelevant</RootNamespace>
+	<AssemblyName>Irrelvant</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/lib/UnityEngine-Debug.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/lib/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\CheckPointCollider.cs" />
+     <Compile Include="Assets\LapCollider.cs" />
+     <Compile Include="Assets\SledController.cs" />
+     <Compile Include="Assets\TimeLabelUpdate.cs" />
+     <Compile Include="Assets\Scripts\OurScripts\LapManager.cs" />
+     <Compile Include="Assets\Scripts\OurScripts\LapTextManager.cs" />
+     <Compile Include="Assets\Scripts\OurScripts\Movement.cs" />
+     <Compile Include="Assets\Scripts\OurScripts\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Scripts\OurScripts\PausedGUI.cs" />
+     <Compile Include="Assets\Scripts\OurScripts\RaceEndGUI.cs" />
+     <Compile Include="Assets\Scripts\OurScripts\StartMenu.cs" />
+     <Compile Include="Assets\Standard Assets\Camera Scripts\MouseLook.cs" />
+     <None Include="Assets\Artwork\Car\Shaders\ConstantColorUnderLayer_Shader.shader" />
+     <None Include="Assets\Scripts\Car Control\AICar_Script.js" />
+     <None Include="Assets\Scripts\Car Control\PlayerCar_Script.js" />
+     <None Include="Assets\Scripts\Car Control\WheelAlignment_Script.js" />
+     <None Include="Assets\Scripts\General\DrawWaypointGizmos_Script.js" />
+     <None Include="Assets\Standard Assets\Camera Scripts\MouseOrbit.js" />
+     <None Include="Assets\Standard Assets\Camera Scripts\SmoothFollow.js" />
+     <None Include="Assets\Standard Assets\Camera Scripts\SmoothLookAt.js" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
+	
