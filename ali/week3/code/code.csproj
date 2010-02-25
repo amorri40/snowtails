@@ -51,11 +51,11 @@
      <Compile Include="Assets\Scripts\OurScripts\PausedGUI.cs" />
      <Compile Include="Assets\Scripts\OurScripts\RaceEndGUI.cs" />
      <Compile Include="Assets\Scripts\OurScripts\SledController.cs" />
+     <Compile Include="Assets\Scripts\OurScripts\SledSlip.cs" />
      <Compile Include="Assets\Scripts\OurScripts\StartMenu.cs" />
      <Compile Include="Assets\Scripts\OurScripts\TimeLabelUpdate.cs" />
      <Compile Include="Assets\Standard Assets\Camera Scripts\MouseLook.cs" />
      <None Include="Assets\Scripts\Car Control\AICar_Script.js" />
-     <None Include="Assets\Scripts\Car Control\WheelAlignment_Script.js" />
      <None Include="Assets\Scripts\General\DrawWaypointGizmos_Script.js" />
      <None Include="Assets\Standard Assets\Camera Scripts\MouseOrbit.js" />
      <None Include="Assets\Standard Assets\Camera Scripts\SmoothFollow.js" />
