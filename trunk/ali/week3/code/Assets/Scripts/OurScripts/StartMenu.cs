@@ -25,7 +25,7 @@ public class StartMenu : MonoBehaviour
     mode = SINGLEPLAYER;
     Time.timeScale = 1;
     Transform player = (Transform)Instantiate(playerPrefab, new Vector3(56, 14, -22), Quaternion.identity);
-    player1 = player.Find("PlayerCar");
+    player1 = player.Find("PlayerSled");
     ((Movement)player1.GetComponent(typeof(Movement))).playerid=1;
     enabled = false;
         }
@@ -35,13 +35,13 @@ public class StartMenu : MonoBehaviour
         mode = SPLITSCREEN2;
         Time.timeScale = 1;
         Transform player = (Transform)Instantiate(playerPrefab, new Vector3(56, 14, -22), Quaternion.identity);
-        player1 = player.Find("PlayerCar");
+        player1 = player.Find("PlayerSled");
         player1.Find("FirstPersonCamera").camera.rect = new Rect(0.0f, 0.5f, 1.0f, 0.5f);
         player1.Find("ThirdPersonCamera").camera.rect = new Rect(0.0f, 0.5f, 1.0f, 0.5f);
         ((Movement)player1.GetComponent(typeof(Movement))).playerid = 1;
 
         player = (Transform)Instantiate(playerPrefab, new Vector3(56, 14, -22), Quaternion.identity);
-        player2 = player.Find("PlayerCar");
+        player2 = player.Find("PlayerSled");
         player2.Find("FirstPersonCamera").camera.rect = new Rect(0.0f, 0.0f, 1.0f, 0.5f);
         player2.Find("ThirdPersonCamera").camera.rect = new Rect(0.0f, 0.0f, 1.0f, 0.5f);
         ((Movement)player2.GetComponent(typeof(Movement))).playerid = 2;
