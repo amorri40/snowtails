@@ -14,34 +14,6 @@
       <FileName>Assets\LapCollider.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="LapManager">
-    <Position X="4" Y="0.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAQAAAAAACAAAAAAAAAAAQAAAAAAAAAAIAAAAAIAAAA=</HashCode>
-      <FileName>Assets\LapManager.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="LapTextManager">
-    <Position X="5.75" Y="0.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAQAAAAAACAAAAAAAAAEAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
-      <FileName>Assets\LapTextManager.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="PausedGUI">
-    <Position X="4" Y="3" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
-      <FileName>Assets\PausedGUI.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="RaceEndGUI">
-    <Position X="5.75" Y="2.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
-      <FileName>Assets\RaceEndGUI.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Class Name="SledController">
     <Position X="0.5" Y="2.75" Width="1.5" />
     <TypeIdentifier>
@@ -54,6 +26,34 @@
     <TypeIdentifier>
       <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
       <FileName>Assets\TimeLabelUpdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LapManager">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAQAAAAAAAAAAIAAAAAIAAAA=</HashCode>
+      <FileName>LapManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LapTextManager">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAEAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>LapTextManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PausedGUI">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>PausedGUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaceEndGUI">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>RaceEndGUI.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
