@@ -93,7 +93,8 @@ http://forum.unity3d.com/viewtopic.php?t=34215
 === Possible last minute features ===
 [http://blog.almostlogical.com/2009/12/11/render-to-texture-unity3d/ see behind mirror?]
 
-
+weapon ideas
+http://docs.google.com/Doc?docid=0Ac4KRNm3cLT7ZGY5eHA5NzlfNGc0Mjc4NGZx&hl=en
 
 == Unit Testing ==
 UUnit http://www.unifycommunity.com/wiki/index.php?title=UUnit
